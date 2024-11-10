@@ -11,7 +11,7 @@ Here are the members of the team:
 - Stuart Gibb
 
 ## Dataset
-The dataset used for this project is the **[New York City Airbnb Open Data]([https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/data))**, which contains detailed information on Airbnb listings in New York City for the year 2019.
+The dataset used for this project is the **[New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/data)**, which contains detailed information on Airbnb listings in New York City for the year 2019.
 
 ### About the Dataset
 **Context**  
