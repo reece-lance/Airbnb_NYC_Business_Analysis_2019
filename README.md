@@ -21,7 +21,7 @@ Since its founding in 2008, Airbnb has provided guests with unique and personali
 The dataset includes extensive details on hosts, location information, property types, prices, and review data, making it suitable for exploring trends and patterns in Airbnb’s New York City market.
 
 ## Business Question
-*To be chosen by the team. Update here after finalising the business question.*
+Which neighbourhoods show untapped potential for growth in listings based on current demand, pricing, and availability trends?
 
 ## Project Structure
 
